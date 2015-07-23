@@ -1,0 +1,7 @@
+#ignore build files under Project
+
+Project/*
+!Project/*.uvproj
+!Project/*.uvprojx
+!Project/*.dep
+!Project/*.ini
